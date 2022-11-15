@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Earthquake-Tracker/static/css/main.4070dab2.css",
-    "main.js": "/Earthquake-Tracker/static/js/main.8cc02bb8.js",
+    "main.css": "/Earthquake-Tracker/static/css/main.0d185c72.css",
+    "main.js": "/Earthquake-Tracker/static/js/main.b9e34853.js",
     "static/js/787.28cb0dcd.chunk.js": "/Earthquake-Tracker/static/js/787.28cb0dcd.chunk.js",
     "static/media/Background.jpg": "/Earthquake-Tracker/static/media/Background.8e1c061d2cc435c97e0f.jpg",
     "static/media/logo.svg": "/Earthquake-Tracker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Earthquake-Tracker/index.html",
-    "main.4070dab2.css.map": "/Earthquake-Tracker/static/css/main.4070dab2.css.map",
-    "main.8cc02bb8.js.map": "/Earthquake-Tracker/static/js/main.8cc02bb8.js.map",
+    "main.0d185c72.css.map": "/Earthquake-Tracker/static/css/main.0d185c72.css.map",
+    "main.b9e34853.js.map": "/Earthquake-Tracker/static/js/main.b9e34853.js.map",
     "787.28cb0dcd.chunk.js.map": "/Earthquake-Tracker/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4070dab2.css",
-    "static/js/main.8cc02bb8.js"
+    "static/css/main.0d185c72.css",
+    "static/js/main.b9e34853.js"
   ]
 }
