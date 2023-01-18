@@ -1,0 +1,87 @@
+.dateContainer{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  border-color: rgba(240, 248, 255, 0.473);
+  background-color: rgba(250, 235, 215, 0.123);
+  color: white;
+}
+.header{
+  text-align: center;
+  background-color: blue;
+  color: white;
+}
+.content{
+  border: 1px solid rgba(0, 0, 0, 0.308);
+ border-radius: 10px;
+  width: 30vw;
+  height: 45vh;
+  margin-bottom: 1rem;
+  text-align: center;
+  background-color: rgba(240, 248, 255, 0.603);
+
+}
+.display{
+  width: 100%;
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: space-around;
+  
+}
+img{
+  width: 100%;
+}
+.center{
+  text-align: center;
+  color: white;
+}
+.buttonContainer{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+  background-color: rgba(250, 235, 215, 0.123);
+}
+.start{
+  margin-left: 1rem;
+}
+.end{
+  margin-left: 1rem;
+}
+button{
+  background-color: rgba(240, 248, 255, 0.322);
+  padding: .4rem;
+  border-radius: 11px;
+  border: .5px solid grey;
+  margin-top: 1rem;
+  color: white;
+}
+button:hover{
+  background-color: rgb(13, 204, 13);
+  color: white;
+  cursor: pointer;
+  transition:.5s;
+}
+footer{
+  background-color: blue;
+  color: white;
+  text-align: center;
+}
+@media only screen and (max-width: 800px) {
+.display {
+    flex-direction: column;
+    align-items: center;
+  }
+  .content{
+    width: 80vw;
+    height: auto;
+  }
+  input{
+    background-color:white;
+  }
+  .dateContainer{
+    width: 98vw;
+  }
+}
